@@ -1,8 +1,7 @@
- **# TriView_ParNet** 
+ **# TouchStrsRecognition** 
 
- **#### Introduce** 
-Three-view collaborative training and parallel network paper method department code open source exchange display
-
+ **#### Need environment** 
+torch ==1.8.1
 
  **#### Installation tutorial
 ** 
