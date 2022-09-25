@@ -1,10 +1,9 @@
- **# TouchStrsRecognition** 
+# TouchStrsRecognition
 
- **#### Need environment** 
+#### Need environment
 torch ==1.8.1
 
- **#### Installation tutorial
-** 
+#### Installation tutorial 
 1.  Install the corresponding package source and configure the environment.
 2.  Generate corresponding datasets and annotations.
 3.  Adjust the training method and modify the corresponding code.
