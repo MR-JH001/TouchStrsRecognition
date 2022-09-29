@@ -2,6 +2,8 @@
 
 #### Need environment
 torch ==1.8.1
+matplotlib
+open-cv
 
 #### Installation tutorial 
 1.  Install the corresponding package source and configure the environment.
